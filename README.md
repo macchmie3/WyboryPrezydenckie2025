@@ -1,5 +1,7 @@
 Analiza wyników wyborów prezydenckich 2025
 
+Plik Output.xlsx zawiera wykresy i arkusz z danymi każdej komisji - zapraszam do ściągnięcia i sprawdzenia.
+
 # Uwagi wstępne:
 - Przedstawione wyniki są z pominięciem komisji, gdzie w pierwszej turze głosowało mniej niż 100 osób, a także: zakłady lecznicze, areszty i zakłady karne
 - Konkretne obwody w danych .csv ze strony wybory.gov.pl nie zawierają żadnych wyróżniających się identyfikatorów komisji, jednak na oko wygląda, że są one posortowane dla obu tur tak samo, i takie przyjąłem założenie
