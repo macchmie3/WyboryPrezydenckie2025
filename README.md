@@ -37,7 +37,12 @@ Trzaskowski:
 Nawrocki:
 ![Nawrocki](https://github.com/user-attachments/assets/e71cbc2a-b704-4b3c-9f98-d48814bd3926)
 
-
+# Parametry statystyczne do danych z powyższych wykresów
+| Wskaźnik  | Trzaskowski | Nawrocki |
+| ------------- | ------------- | ------------- |
+| Średnia arytmetyczna | 21.55  | -9.84 |
+| Odchylenie standardowe  | 248.44  | 27.56  |
+| Kurtoza  | 6.25  | 21.21  |
 
 # Uwagi końcowe
 - Gdyby pominąć totalnie przepływy wyborców, i patrzeć tylko na głosy Trzaskowski / Nawrocki, to rozkład różnic między pierwszą a drugą turą jest rozkładem Gaussa, nie chce mi się go ponownie teraz wyliczać, ale nie faworyzuje Nawrockiego (wręcz jest pro-Trzaskowski)
