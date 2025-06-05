@@ -15,7 +15,7 @@ Głosy w pierwszej turze: 500
 
 To w drugiej turze przy frekwencji 750: 
 - Trzaskowski = 1.5 * (100 + 0.119 * 250)
-- Nawrocki = 1.5 * (150 + 0.889 * 250)
+- Nawrocki = 1.5 * (150 + 0.881 * 250)
 
 
 # Założenia
