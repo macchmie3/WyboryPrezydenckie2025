@@ -43,6 +43,7 @@ Nawrocki:
 | Średnia arytmetyczna | 21.55  | -9.84 |
 | Odchylenie standardowe  | 248.44  | 27.56  |
 | Kurtoza  | 6.25  | 21.21  |
+| Skośność  | -0.85  | -2.09  |
 
 # Uwagi końcowe
 - Gdyby pominąć totalnie przepływy wyborców, i patrzeć tylko na głosy Trzaskowski / Nawrocki, to rozkład różnic między pierwszą a drugą turą jest rozkładem Gaussa, nie chce mi się go ponownie teraz wyliczać, ale nie faworyzuje Nawrockiego (wręcz jest pro-Trzaskowski)
